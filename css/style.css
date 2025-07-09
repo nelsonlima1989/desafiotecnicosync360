@@ -1,0 +1,27 @@
+body{
+        margin: 20px 0px 20px 0px;
+}
+
+input, select, button, a, textarea{
+    margin-bottom: 10px;
+   
+}
+
+
+#divform {
+    background-color: #d9d9d9;
+    border-radius: 8px;
+
+}
+
+img {
+    max-width: 20%;
+    height: auto;
+    align-self: center;
+}
+
+.card{
+    padding: 5px;
+    margin: 2px;
+}
+
