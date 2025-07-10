@@ -62,4 +62,7 @@ Criar uma interface de perfil de usuário com:
 3. Configure seu banco de dados MySQL
 
 
+---
 
+## 👨‍💻 Autor
+Desenvolvido por Nelson Lima como parte de um desafio técnico para avaliação de habilidades Fullstack.
