@@ -19,7 +19,7 @@ Criar uma interface de perfil de usuário com:
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 
-### 💅 Frontend
+### 🖌️ Frontend
 - HTML5
 - CSS3
 - JavaScript Puro
